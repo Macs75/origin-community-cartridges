@@ -87,4 +87,3 @@ Endpoints:
   - Private-IP-Name:   IP
     Private-Port-Name: JPDA_PORT
     Private-Port:      8787
-Source-Url: https://github.com/Macs75/origin-community-cartridges.git
